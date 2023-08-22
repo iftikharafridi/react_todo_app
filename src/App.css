@@ -1,0 +1,13 @@
+.todo-app {
+  padding: 30px;
+  background-color: floralwhite;
+  width: 50%;
+  margin: auto;
+}
+
+.todo-section {
+  align-items: center;
+  display: flex;
+  font-size: 18px;
+  justify-content: space-between;
+}
